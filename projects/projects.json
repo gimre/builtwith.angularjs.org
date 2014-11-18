@@ -3580,6 +3580,23 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "VreauCeva",
+      "thumb": "vreauceva/thumb.jpg",
+      "desc": "vreau-ceva.ro is a free peer-to-peer marketplace app designed to bring together people who want to outsource home and / or office tasks and people who want to earn extra money by completing them.",
+      "url": "https://www.vreau-ceva.ro",
+      "submitter": "Gabriel Imre",
+      "submissionDate": "2014-11-18",
+      "tags": [
+        "Fortech Software Romania",
+        "Productivity",
+        "Marketing",
+        "Services",
+        "Bootstrap",
+        "CSS3",
+        "HTML5"
+      ]
     }
 
   ]
